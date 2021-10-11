@@ -1,0 +1,14 @@
+#wrap{width:500px; margin: 0 auto;}
+.fieldset1{margin-top: 100px; margin-left:35px; border-radius: 10px;}
+.header{margin-top: 20px; text-align: center;}
+.logoimg{max-width: 130px; margin-top: 20px;}
+.lb1{font-size: 20pt;}
+.loginbox{margin-top: 20px; position:relative;}
+.fieldset2{display: flex; }
+.input{font-size: 15pt; width: 350px; border: none;}
+.createaccount{display: flex; align-items: center; justify-content: space-between; margin-bottom: 40px;}
+.next{width:60px; height: 30px; background-color: #2478FF; color:white; border:none; margin-right: 10px;}
+.next:hover{box-shadow: 0 0 5px gray;}
+.next:active{box-shadow: 0 0 10px gray;}
+
+.footer{margin-left:35px; margin-top: 15px; display:flex;align-items: center; justify-content: space-between; font-size: 10pt; margin-right:35px;}
